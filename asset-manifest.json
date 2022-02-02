@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galvanize-carousel/static/css/main.52ea6ba5.css",
+    "main.js": "/galvanize-carousel/static/js/main.72384b6e.js",
+    "index.html": "/galvanize-carousel/index.html",
+    "main.52ea6ba5.css.map": "/galvanize-carousel/static/css/main.52ea6ba5.css.map",
+    "main.72384b6e.js.map": "/galvanize-carousel/static/js/main.72384b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ea6ba5.css",
+    "static/js/main.72384b6e.js"
+  ]
+}
